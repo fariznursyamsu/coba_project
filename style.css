@@ -1,0 +1,14 @@
+body{background-color: rgb(94, 214, 214);
+font-family: 'Times New Roman', Times, serif;}
+
+
+
+#main-container{
+    width: 400px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 15px;
+}
+
+h2{text-align: center;
+    border-bottom: 1px solid grey ;}
